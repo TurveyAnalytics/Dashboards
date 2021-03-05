@@ -1,2 +1,2 @@
 # Dashboards
-A repository for everything personally exploratory, featuring my own work and analysis.
+A repository for the dashboards I have created for various interests and explorations.
